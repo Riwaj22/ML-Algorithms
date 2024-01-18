@@ -9,3 +9,10 @@ In short, classification is a form of “pattern recognition,”. Here, classifi
 We will explore classification algorithms in detail, and discover how a text analysis software can perform actions like sentiment analysis - used for categorizing unstructured text by opinion polarity (positive, negative, neutral, and the like). 
 
 ![class](https://github.com/Riwaj22/ML-Algorithms/assets/99485058/b41f9996-bd4b-4e45-9e29-3de51d13e57f)
+
+Popular Classification Algorithms:
+1. Logistic Regression <br>
+2. Naive Bayes <br>
+3. K-Nearest Neighbors<br>
+4. Decision Tree<br>
+5. Support Vector Machines<br>
