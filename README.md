@@ -16,3 +16,21 @@ Popular Classification Algorithms:
 3. K-Nearest Neighbors<br>
 4. Decision Tree<br>
 5. Support Vector Machines<br>
+
+
+Regression algorithms are a type of machine learning algorithm used to predict numerical values based on input data. Regression algorithms attempt to find a relationship between the input variables and the output variable by fitting a mathematical model to the data. The goal of regression is to find a mathematical relationship between the input features and the target variable that can be used to make accurate predictions on new, unseen data.
+
+Types of Regression
+There are various types of regressions which are used in data science and machine learning. Each type has its own importance on different scenarios, but at the core, all the regression methods analyze the effect of the independent variable on dependent variables. Here we are discussing some important types of regression which are given below:
+![types-of-regression](https://github.com/Riwaj22/ML-Algorithms/assets/99485058/9c984583-a29b-44dc-ace2-1d0ffb3c767d)
+
+1. Linear Regression <br>
+2. Logistic Regression <br>
+3. Polynomial Regression <br>
+4. Support Vector Regression <br>
+5. Decision Tree Regression <br>
+6. Random Forest Regression <br>
+7. Ridge Regression <br>
+8. Lasso Regression <br>
+
+
